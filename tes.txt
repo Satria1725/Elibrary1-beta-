@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link Download Source-Code 
+
+https://www.sourcecodester.com/php/14592/simple-online-document-sharing-system-using-phpmysqli-source-code.html
+
+How to Run
+
+    Download the source code and extract the zip file.
+    Download or set up any local web server that runs PHP script.
+    Open the web-server database and create a new database name it odss_db.
+    Import the SQL file located in the database folder of the source code.
+    Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+    Open a web browser and browse the project. E.g [http://localhost/online-document-sharing-system]
+
+Default Admin Access
+
+Email: admin@admin.com
+Password: admin123
+
+I hope this simple Online Document Sharing System will help you with what you are looking for, feel free to download and modify the source code.
+
+Explore more on this website for more source codes and tutorials.
+
+Enjoy!
+
+
+jsmith@sample.com

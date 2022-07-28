@@ -1,0 +1,104 @@
+----------------------------------
+User admin : 
+----------------------------------
+admin / admin123
+sample / user123
+----------------------------------
+
+Fitur - Fitur 
+1. Halaman Dashboard untuk Internal 
+    - Upload Dokumen
+    - Create New Folder 
+    - Preview Dokumen 
+    - Save and Download Dokumen 
+    - Hak Akses Folder / Files
+    - Pengkategorian Dokumen ( Bisa berdasarkan Tahun , Per Lembaga / Department)  
+2. Halaman Front End ( Public ) 
+    - Pencarian Dokumen / File 
+    - Save and Download Dokumen 
+    - Preview Dokumen 
+
+
+
+mas Ardi, bisa dilengkapi dgn fitur-fitur dan hasil searchingnya ?
+-untuk file yg akan dicari, bagaimana indexingnya?
+-Apa metode indexing yg akan digunakan?
+-Bagaimana metode indexing untuk file non-text spt video, gambar? 
+
+-Pekerjaan e-library tidak hanya membuat aplikasi elibrary, 
+ tetapi kita bisa tawarkan juga membuat/menambahkan  
+ indexing dokumen yg akan di upload sehingga memudahkan pencarian
+
+
+
+tujuan utamanya adalah file yg benar2 dicari, bisa ketemu. 
+
+misalnya mencari file laporan yg memuat quality problem terutama masalah defect karena dent, 
+
+bagaimana searching & indexingnya ? 
+
+kalau searching biasa tanpa metode, file tdk akan ketemu, 
+atau akan muncul ratusan file yg tidak relevan, harus dipilih2 lagi. 
+
+Yg diinginkan adalah, yg paling relevan muncul diatas, 
+
+yg paling tdk relevan, di urutan paling bawah.                                                                         
+masalah kecepatan pencarian, nomer dua.
+
+
+https://nu.or.id/arsip
+
+1. metode pencarian 
+    - role user / hak akses 
+    - Recent Files 
+    - Favourite
+------------------------------------------
+
+1. Metode nya memakai search advance 
+   - Kelebihan dan kekurangan 
+
+2. Proses Upload Dokumen
+3. Naming Convention / Renaming 
+4. Inverted
+    Pencarian berdasarkan tahun 
+
+
+input data document ( META-DATA )
+
+menambahkan
+
+selasa pak taufiq, 22 feb 2022
+
+
+
+Point-point yang harus ditambahkan 
+- Metode yang dipakai adalah Advanced Search
+- Kekurangan dan Kelebihan dari advance search
+
+
+
+------------------------------------------------
+
+E-library system
+
+23-Feb-2022
+
+
+oee system
+- format laporan disajikan dalam dashboard 
+- export ke Xls dan PDF 
+- laporan availability single mesin, 
+
+
+
+elibrary sistem 
+laporan kauangn
+laporan oee quality 
+laporan oee availability
+
+
+xls, doc , pdf , img
+
+
+
+metode / kelebihan dan kekurangan 
